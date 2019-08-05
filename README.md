@@ -1,2 +1,0 @@
-# dragger
-Created with CodeSandbox
